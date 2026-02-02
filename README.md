@@ -333,23 +333,6 @@ const CODEPHYT = {
 
 ---
 
-<!-- Elite GitHub Statistics Dashboard -->
-## 📊 Engineering Performance Metrics
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=CodePhyt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&rank_icon=github" alt="GitHub Stats"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodePhyt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook,html&exclude_repo=bolt.diy" alt="Top Languages"/>
-</p>
-
-<br/>
-
----
-
 <!-- Elite Project Showcase -->
 ## 🚀 Signature Projects & Innovations
 
