@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated Header with Gradient Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=OSMAN%20KADIR&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CodePhyt%20・%20Software%20Architect%20・%20AI%20Systems%20Engineer&descAlignY=55&descAlign=50&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=OSMAN%20KADIR&fontSize=70&fontColor=fff&animation=t[...]
 
 <br/>
 
 <!-- Elite Typing Animation (Revised & Optimized) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=70&lines=Autonomous+Systems+Architect+%F0%9F%9A%80;Tech+Content+Creator+%40CodePhyt+%F0%9F%8E%A5;Full-Stack+Engineer+%7C+155%2B+Repos+%F0%9F%92%BB;AI+Agent+Systems+%26+Automation+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=70&lines=Autonomous+Systems[...]
 </a>
 
 <br/>
@@ -48,10 +48,10 @@
 
 ```typescript
 /*
-╔═══════════════════════════════════════════════════════════════════════════╗
+╔═════════════════════════════════════════════════════════════════[...]
 ║                                                                           ║
 ║   ██████╗ ██████╗ ██████╗ ███████╗██████╗ ██╗  ██╗██╗   ██╗████████╗    ║
-║  ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗██║  ██║╚██╗ ██╔╝╚══██╔══╝    ║
+║  ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗██║  ██║╚██╗ ██╔╝╚══██╔═══╝    ║
 ║  ██║     ██║   ██║██║  ██║█████╗  ██████╔╝███████║ ╚████╔╝    ██║       ║
 ║  ██║     ██║   ██║██║  ██║██╔══╝  ██╔═══╝ ██╔══██║  ╚██╔╝     ██║       ║
 ║  ╚██████╗╚██████╔╝██████╔╝███████╗██║     ██║  ██║   ██║      ██║       ║
@@ -59,14 +59,14 @@
 ║                                                                           ║
 ║        Principal AI Systems Engineer & Autonomous Intelligence Architect ║
 ║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+╚═════════════════════════════════════════════════════════════════[...]
 */
 
 const CODEPHYT = {
   
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━══[...]
   // ⚡ IDENTITY MATRIX
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━══[...]
   
   identity: {
     handle:   "@CodePhyt",
@@ -75,20 +75,20 @@ const CODEPHYT = {
     status:   "🟢 OPERATIONAL"
   },
 
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━══[...]
   // 🧠 NEURAL ARCHITECTURE
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━══[...]
   
   stack: {
     ai:         ["🤖 Multi-Agent Systems", "🛡️ Self-Healing Arch", "⚡ RAG Pipelines"],
     web:        ["⚛️ Next.js 15", "🚀 Node.js", "🐍 FastAPI", "💎 TypeScript"],
-    blockchain: ["⛓️ DeFi Protocols", "💸 Arbitrage Bots", "� Trading Algos"],
+    blockchain: ["⛓️ DeFi Protocols", "💸 Arbitrage Bots", "📈 Trading Algos"],
     ops:        ["🐳 Kubernetes", "☁️ Multi-Cloud", "🔄 CI/CD", "🐧 Linux"]
   },
 
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━══[...]
   // 🛠️ DEVELOPMENT ARSENAL
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━══[...]
   
   workstation: {
     ai:    "Antigravity CLI • Gemini 2.5 • Claude 3.5",
@@ -97,9 +97,9 @@ const CODEPHYT = {
     arch:  "Clean Code • DDD • Event-Driven"
   },
 
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═[...]
   // 📊 SYSTEM TELEMETRY
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═[...]
   
   metrics: {
     repos:      "155+ Active",
@@ -109,18 +109,18 @@ const CODEPHYT = {
     quality:    "A+ Grade"
   },
 
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═[...]
   // 🎯 CORE DIRECTIVE
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═[...]
   
   mission: `
     Build autonomous systems that empower developers worldwide through
     open-source innovation, premium education, and enterprise AI solutions.
   `,
 
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═[...]
   // 🔄 RUNTIME LOOP
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━═[...]
   
   async run() {
     while (true) {
@@ -138,10 +138,10 @@ const CODEPHYT = {
 } as const;
 
 /*
-┌─────────────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────[...]
 │ "Turning caffeine into self-healing distributed systems"               │
 │  Code with Purpose • Build with Passion • Deploy with Confidence       │
-└─────────────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────[...]
 */
 ```
 
@@ -414,9 +414,6 @@ const CODEPHYT = {
 
 <br/>
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-
 <p align="center">
   <samp>
     💡 <b>Creating High-Quality Software Tutorials & Tech Content</b><br/>
@@ -519,7 +516,7 @@ const CODEPHYT = {
 ## 💭 Engineering Philosophy
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" alt="Dev Quote 1"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up.&author=Thomas%20Fuchs" alt="Engineering Quote"/>
 </p>
 
 <br/>
@@ -630,7 +627,7 @@ const CODEPHYT = {
 <br/>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65&desc=⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful!&descSize=14&descAlignY=85"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ff[...]
 
 </div>
 
