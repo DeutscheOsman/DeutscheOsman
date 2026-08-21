@@ -1,25 +1,29 @@
-name: Latest YouTube Videos
+# This workflow has been disabled to prevent recurring failures
+# The workflow was looking for comment tags that were not present in README.md
+# To re-enable: uncomment the content below and add the required tags to your README
 
-on:
-  # Run every hour
-  schedule:
-    - cron: '0 * * * *'
-  
-  # Allow manual trigger
-  workflow_dispatch:
-
-jobs:
-  update-readme-with-youtube:
-    name: Update README with Latest YouTube Videos
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      
-      - name: Pull README from YouTube Channel
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCxD9pApHFNuJPJTgJSBzV5w"
-          max_post_count: 6
-          template: '<a href="$url" target="_blank"><img src="$thumbnail" alt="$title" width="240" /></a>'
+# name: Latest YouTube Videos
+# 
+# on:
+#   # Run every hour
+#   schedule:
+#     - cron: '0 * * * *'
+#   
+#   # Allow manual trigger
+#   workflow_dispatch:
+# 
+# jobs:
+#   update-readme-with-youtube:
+#     name: Update README with Latest YouTube Videos
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v3
+#       
+#       - name: Pull README from YouTube Channel
+#         uses: gautamkrishnar/blog-post-workflow@v1
+#         with:
+#           comment_tag_name: "YOUTUBE"
+#           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCxD9pApHFNuJPJTgJSBzV5w"
+#           max_post_count: 6
+#           template: '<a href="$url" target="_blank"><img src="$thumbnail" alt="$title" width="240" /></a>'
