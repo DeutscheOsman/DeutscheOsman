@@ -20,6 +20,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC_YOUR_CHANNEL_ID"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCxD9pApHFNuJPJTgJSBzV5w"
           max_post_count: 6
           template: '<a href="$url" target="_blank"><img src="$thumbnail" alt="$title" width="240" /></a>'
