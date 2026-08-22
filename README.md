@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated Header with Gradient Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=OSMAN%20KADIR&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Autonomous%20Systems%20Architect&descAlignY=75&descAlign=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=OSMAN%20KADIR&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=70" alt="Header"/>
 
 <br/>
 
 <!-- Elite Typing Animation (Revised & Optimized) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=70&lines=Autonomous+Systems+Architect;Principal+AI+Engineer;Full-Stack+Developer;Open+Source+Contributor" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=70&lines=Autonomous+Systems+Engineer;AI%2FML+Systems+Architect;Distributed+Systems+Expert;Open+Source+Builder" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -48,18 +48,18 @@
 
 ```typescript
 /*
-╔═════════════════════════════════════════════════════════════════════╗
-║                                                                     ║
-║    ██████╗ ███████╗██╗   ██╗████████╗███████╗██████╗ ██╗ ██████╗    ║
-║    ██╔══██╗██╔════╝██║   ██║╚══██╔══╝██╔════╝██╔══██╗██║██╔════╝    ║
-║    ██║  ██║█████╗  ██║   ██║   ██║   ███████╗██████╔╝██║██║         ║
-║    ██║  ██║██╔══╝  ██║   ██║   ██║   ╚════██║██╔═══╝ ██║██║         ║
-║    ██████╔╝███████╗╚██████╔╝   ██║   ███████║██║     ██║╚██████╗    ║
-║    ╚═════╝ ╚══════╝ ╚═════╝    ╚═╝   ╚══════╝╚═╝     ╚═╝ ╚═════╝    ║
-║                                                                     ║
-║      Principal AI Systems Engineer & Autonomous Intelligence        ║
-║                                                                     ║
-╚═════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║    ██████╗ ███████╗██╗   ██╗████████╗███████╗██████╗ ██╗ ██████╗          ║
+║    ██╔══██╗██╔════╝██║   ██║╚══██╔══╝██╔════╝██╔══██╗██║██╔════╝          ║
+║    ██║  ██║█████╗  ██║   ██║   ██║   ███████╗██████╔╝██║██║               ║
+║    ██║  ██║██╔══╝  ██║   ██║   ██║   ╚════██║██╔═══╝ ██║██║               ║
+║    ██████╔╝███████╗╚██████╔╝   ██║   ███████║██║     ██║╚██████╗          ║
+║    ╚═════╝ ╚══════╝ ╚═════╝    ╚═╝   ╚══════╝╚═╝     ╚═╝ ╚═════╝          ║
+║                                                                            ║
+║      Principal AI Systems Engineer & Autonomous Intelligence              ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 */
 
 const DEUTSCHEOSMAN = {
@@ -138,8 +138,18 @@ const DEUTSCHEOSMAN = {
 } as const;
 
 /*
-┌─────────────────────────────────────────────────────────────────────┐
-│ "Turning caffeine into self-healing distributed systems"            │
-│  Code with Purpose • Build with Passion • Deploy with Confidence    │
-└─────────────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│ "Turning caffeine into self-healing distributed systems"              │
+│  Code with Purpose • Build with Passion • Deploy with Confidence      │
+└────────────────────────────────────────────────────────────────────────┘
 */
+
+```
+
+---
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
