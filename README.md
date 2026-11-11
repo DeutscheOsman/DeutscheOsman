@@ -16,7 +16,7 @@
 <p align="center">
   <samp>
     <b>「 Engineering the Future of Autonomous Intelligence 」</b><br/><br/>
-    🎓 Computer Engineering Graduate | 🏗️ Systems Architect | 🧠 AI/ML Specialist<br/>
+| 🏗️ Systems Architect | 🧠 AI/ML Specialist<br/>
     🎬 High-Quality Tech Educator | 🌍 Open Source Contributor | 💡 Innovation Engineer<br/><br/>
     📍 <i>Transforming complex architectures into elegant, self-healing systems</i>
   </samp>
